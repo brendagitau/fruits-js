@@ -1,0 +1,12 @@
+>>> firstname="Brenda"
+>>> lastname= " Gitau" 
+>>> birthyear=1996
+>>> currentyear=2021
+>>> fees=19000
+>>> payment=15000
+>>> balance= fees -  payment
+>>> age= currentyear-birthyear
+>>> school = "akirachix"
+>>> country= "kenya"
+
+>>> print(f"Hi {firstname} {lastname} from {country.upper()}.Welcome to {school.upper()}.You are {age} years old and your tuition balance is {balance}")
